@@ -8,3 +8,22 @@ body{
     background: #000000;
     font-family: 'Raleway', sans-serif;
 }
+
+#hero-img{
+    width: 100%;
+    height: 500px;
+}
+
+#iguana-uno{
+    display: inline-block;
+    width: 490px;
+    height: 250px;
+    margin: 75px 0 0 100px;
+}
+
+h1{
+    color: #ffffff;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 300;
+}
