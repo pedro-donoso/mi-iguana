@@ -28,7 +28,11 @@ h1{
     font-weight: 300;
 }
 
-#parrafo{
+#parrafo-centrado{
+    text-align: center;
+}
+
+#parrafo-texto{
     color: #ffffff;
     display: inline-block;
     margin: 76px 0px 76px 0px;
@@ -36,3 +40,12 @@ h1{
     width: 500px;
     font-weight: lighter;
 }
+
+#caracteristicas{
+    background-color: #1e1a13;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 75px;
+}
+
+
