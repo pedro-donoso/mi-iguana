@@ -14,12 +14,7 @@ body{
     height: 500px;
 }
 
-#iguana-uno{
-    display: inline-block;
-    width: 490px;
-    height: 250px;
-    margin: 75px 0 0 100px;
-}
+
 
 h1{
     color: #ffffff;
@@ -29,23 +24,33 @@ h1{
 }
 
 #parrafo-centrado{
-    text-align: center;
+    display: flex;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
 }
-
 #parrafo-texto{
     color: #ffffff;
-    display: inline-block;
-    margin: 76px 0px 76px 0px;
-    text-align: left;
-    width: 500px;
+    float: left;
+    margin-left: 4em;
+    text-align: justify;
+    width: 50%;
     font-weight: lighter;
 }
+#iguana-uno{
+    float: right;
+    width: 30%;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    height: 100%;
+}
+
+
 
 #caracteristicas{
     background-color: #1e1a13;
     color: #ffffff;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 75px;
 }
 
 h2{
@@ -73,4 +78,19 @@ h2{
     background-color: rgba(0, 0, 0, 0.96);
     text-align: center;
     padding: 80px;
+}
+
+footer{
+    background-color: #1e1a13;
+    padding: 2.5em;
+    text-align: center;
+    color: #ffffff;
+    vertical-align: middle;
+}
+
+footer a{
+    background-color: #1e1a13;
+    text-decoration: none;
+    font-style: normal;
+    color: #ffffff;
 }
