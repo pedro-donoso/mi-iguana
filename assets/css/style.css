@@ -45,7 +45,7 @@ h1{
     background-color: #1e1a13;
     color: #ffffff;
     text-align: center;
-    padding-top: 75px;
+    padding-top: 100px;
 }
 
 h2{
@@ -69,3 +69,8 @@ h2{
     padding: 1em;
 }
 
+#galeria{
+    background-color: rgba(0, 0, 0, 0.96);
+    text-align: center;
+    padding: 80px;
+}
