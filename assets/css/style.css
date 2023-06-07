@@ -48,4 +48,17 @@ h1{
     padding-top: 75px;
 }
 
+h2{
+    font-weight: 300;
+    font-size: xx-large;
+    text-align: center;
+}
 
+#icons{
+    display: inline-block;
+    padding: 3em;
+    font-size: x-large;
+    font-weight: lighter;
+    text-align: center;
+    margin: 0 0 0 20px;
+}
